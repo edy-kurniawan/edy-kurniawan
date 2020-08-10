@@ -48,7 +48,7 @@ Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics 
 - 💼 I’m pursuing a Bachelor's degree in Informatics Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via edy.kurniawan280898@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](#) to get more info.
+- 📝 See my [Curriculum Vitae](https://edy-kurniawan.github.io/) to get more info.
 
 
 **Languages and Tools:**  
