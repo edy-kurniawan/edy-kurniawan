@@ -43,7 +43,7 @@ Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Codeigniter; 
+- 🌱 I’m currently learning Codeigniter & Node Js; 
 - 🤔 My interests are with back-end web developer;
 - 💼 I’m pursuing a Bachelor's degree in Informatics Engineering;
 - 💬 Ask me about anything, I am happy to help;
