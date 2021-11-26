@@ -49,7 +49,7 @@ Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via edy.kurniawan280898@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](#) to get more info.
-- :computer: My current project [Epasar-Dev](https://it-cloud.net/epasar).
+- :computer: My current project [Epasar-Dev](#).
 
 
 **Languages and Tools:**  
